@@ -1,4 +1,3 @@
-# Build for the use of BCM57780
 
 ## **platform-x64**
 
